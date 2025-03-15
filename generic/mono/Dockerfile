@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:generic-mono
+# Image: ghcr.io/fragbox-host/images:generic-mono
 # ----------------------------------
 
 FROM debian:bullseye-slim

@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:postgres-16
+# Image: ghcr.io/fragbox-host/images:postgres-16
 # ----------------------------------
 
 FROM postgres:16-alpine

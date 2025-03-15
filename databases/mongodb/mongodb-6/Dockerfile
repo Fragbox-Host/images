@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:mongodb-6
+# Image: ghcr.io/fragbox-host/images:mongodb-6
 # ----------------------------------
 
 FROM mongo:6.0.20

@@ -1,7 +1,7 @@
 
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:games-proton
+# Image: ghcr.io/fragbox-host/images:games-proton
 # ----------------------------------
 
 

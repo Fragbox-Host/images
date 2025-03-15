@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Image
-# Image: ghcr.io/sparkedhost/images:dotnet-3.1
+# Image: ghcr.io/fragbox-host/images:dotnet-3.1
 # ----------------------------------
 
 FROM        debian:bullseye-slim

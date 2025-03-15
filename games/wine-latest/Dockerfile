@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:wine-game-latest
+# Image: ghcr.io/fragbox-host/images:wine-game-latest
 # ----------------------------------
 
 FROM debian:bullseye-slim

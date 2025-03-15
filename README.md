@@ -6,89 +6,89 @@
 
 ### Java images
 
-- [`java-jre8`](https://github.com/sparkedhost/images/blob/main/java/java-jre8/Dockerfile)
-- [`java-jre11`](https://github.com/sparkedhost/images/blob/main/java/java-jre11/Dockerfile)
-- [`java-jre16`](https://github.com/sparkedhost/images/blob/main/java/java-jre16/Dockerfile)[^eol]
-- [`java-jre17`](https://github.com/sparkedhost/images/blob/main/java/java-jre17/Dockerfile)
-- [`java-jre18`](https://github.com/sparkedhost/images/blob/main/java/java-jre18/Dockerfile)[^eol]
-- [`java-jre19`](https://github.com/sparkedhost/images/blob/main/java/java-jre19/Dockerfile)[^eol]
-- [`java-jre20`](https://github.com/sparkedhost/images/blob/main/java/java-jre20/Dockerfile)[^eol]
-- [`java-jre21`](https://github.com/sparkedhost/images/blob/main/java/java-jre21/Dockerfile)
-- [`java-jre22`](https://github.com/sparkedhost/images/blob/main/java/java-jre22/Dockerfile)[^eol]
-- [`anti-malware`](https://github.com/sparkedhost/images/blob/main/java/anti-malware/Dockerfile)[^antimalware]
+- [`java-jre8`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre8/Dockerfile)
+- [`java-jre11`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre11/Dockerfile)
+- [`java-jre16`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre16/Dockerfile)[^eol]
+- [`java-jre17`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre17/Dockerfile)
+- [`java-jre18`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre18/Dockerfile)[^eol]
+- [`java-jre19`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre19/Dockerfile)[^eol]
+- [`java-jre20`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre20/Dockerfile)[^eol]
+- [`java-jre21`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre21/Dockerfile)
+- [`java-jre22`](https://github.com/Fragbox-Host/images/blob/main/java/java-jre22/Dockerfile)[^eol]
+- [`anti-malware`](https://github.com/Fragbox-Host/images/blob/main/java/anti-malware/Dockerfile)[^antimalware]
 
 ### Node.js images
 
-- [`nodejs-12`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-12/Dockerfile)[^eol]
-- [`nodejs-13`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-13/Dockerfile)[^eol]
-- [`nodejs-14`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-14/Dockerfile)[^eol]
-- [`nodejs-15`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-15/Dockerfile)[^eol]
-- [`nodejs-16`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-16/Dockerfile)[^eol]
-- [`nodejs-17`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-17/Dockerfile)[^eol]
-- [`nodejs-18`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-18/Dockerfile)
-- [`nodejs-19`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-19/Dockerfile)[^eol]
-- [`nodejs-20`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-20/Dockerfile)
-- [`nodejs-21`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-21/Dockerfile)[^eol]
-- [`nodejs-22`](https://github.com/sparkedhost/images/blob/main/nodejs/nodejs-22/Dockerfile)
+- [`nodejs-12`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-12/Dockerfile)[^eol]
+- [`nodejs-13`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-13/Dockerfile)[^eol]
+- [`nodejs-14`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-14/Dockerfile)[^eol]
+- [`nodejs-15`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-15/Dockerfile)[^eol]
+- [`nodejs-16`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-16/Dockerfile)[^eol]
+- [`nodejs-17`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-17/Dockerfile)[^eol]
+- [`nodejs-18`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-18/Dockerfile)
+- [`nodejs-19`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-19/Dockerfile)[^eol]
+- [`nodejs-20`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-20/Dockerfile)
+- [`nodejs-21`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-21/Dockerfile)[^eol]
+- [`nodejs-22`](https://github.com/Fragbox-Host/images/blob/main/nodejs/nodejs-22/Dockerfile)
 
 ### Python images
 
-- [`python-3.6`](https://github.com/sparkedhost/images/blob/main/python/python-3.6/Dockerfile)[^eol]
-- [`python-3.7`](https://github.com/sparkedhost/images/blob/main/python/python-3.7/Dockerfile)[^eol]
-- [`python-3.8`](https://github.com/sparkedhost/images/blob/main/python/python-3.8/Dockerfile)[^eol]
-- [`python-3.9`](https://github.com/sparkedhost/images/blob/main/python/python-3.9/Dockerfile)
-- [`python-3.10`](https://github.com/sparkedhost/images/blob/main/python/python-3.10/Dockerfile)
-- [`python-3.11`](https://github.com/sparkedhost/images/blob/main/python/python-3.11/Dockerfile)
-- [`python-3.12`](https://github.com/sparkedhost/images/blob/main/python/python-3.12/Dockerfile)
-- [`python-3.13`](https://github.com/sparkedhost/images/blob/main/python/python-3.13/Dockerfile)
+- [`python-3.6`](https://github.com/Fragbox-Host/images/blob/main/python/python-3.6/Dockerfile)[^eol]
+- [`python-3.7`](https://github.com/Fragbox-Host/images/blob/main/python/python-3.7/Dockerfile)[^eol]
+- [`python-3.8`](https://github.com/Fragbox-Host/images/blob/main/python/python-3.8/Dockerfile)[^eol]
+- [`python-3.9`](https://github.com/Fragbox-Host/images/blob/main/python/python-3.9/Dockerfile)
+- [`python-3.10`](https://github.com/Fragbox-Host/images/blob/main/python/python-3.10/Dockerfile)
+- [`python-3.11`](https://github.com/Fragbox-Host/images/blob/main/python/python-3.11/Dockerfile)
+- [`python-3.12`](https://github.com/Fragbox-Host/images/blob/main/python/python-3.12/Dockerfile)
+- [`python-3.13`](https://github.com/Fragbox-Host/images/blob/main/python/python-3.13/Dockerfile)
 
 ### Game Hosting images
 
-- [`games-rust`](https://github.com/sparkedhost/images/blob/main/games/rust/Dockerfile)
-- [`games-unturned`](https://github.com/sparkedhost/images/blob/main/games/unturned/Dockerfile)
-- [`games-liteloader-bds`](https://github.com/sparkedhost/images/blob/main/games/liteloader-bds/Dockerfile)
-- [`games-bdsx`](https://github.com/sparkedhost/images/blob/main/games/bdsx/Dockerfile)
-- [`games-source`](https://github.com/sparkedhost/images/blob/main/games/source/Dockerfile)
-- [`games-dotnet`](https://github.com/sparkedhost/images/blob/main/games/dotnet/Dockerfile)
-- [`games-wine-latest`](https://github.com/sparkedhost/images/blob/main/games/wine-latest/Dockerfile)
-- [`games-wine-staging`](https://github.com/sparkedhost/images/blob/main/games/wine-staging/Dockerfile)
-- [`games-proton`](https://github.com/sparkedhost/images/blob/main/games/proton/Dockerfile)
-- [`games-valheim`](https://github.com/sparkedhost/images/blob/main/games/valheim/Dockerfile)
-- [`games-beammp`](https://github.com/sparkedhost/images/blob/main/games/beammp/Dockerfile)
-- [`games-cs2`](https://github.com/sparkedhost/images/blob/main/games/cs2/Dockerfile)
-- [`games-core-keeper`](https://github.com/sparkedhost/images/blob/main/games/core-keeper/Dockerfile)
-- [`games-tuxlauncher`](https://github.com/sparkedhost/images/blob/main/games/tuxlauncher/Dockerfile)
-- [`games-steam`](https://github.com/sparkedhost/images/blob/main/games/steam/Dockerfile)
+- [`games-rust`](https://github.com/Fragbox-Host/images/blob/main/games/rust/Dockerfile)
+- [`games-unturned`](https://github.com/Fragbox-Host/images/blob/main/games/unturned/Dockerfile)
+- [`games-liteloader-bds`](https://github.com/Fragbox-Host/images/blob/main/games/liteloader-bds/Dockerfile)
+- [`games-bdsx`](https://github.com/Fragbox-Host/images/blob/main/games/bdsx/Dockerfile)
+- [`games-source`](https://github.com/Fragbox-Host/images/blob/main/games/source/Dockerfile)
+- [`games-dotnet`](https://github.com/Fragbox-Host/images/blob/main/games/dotnet/Dockerfile)
+- [`games-wine-latest`](https://github.com/Fragbox-Host/images/blob/main/games/wine-latest/Dockerfile)
+- [`games-wine-staging`](https://github.com/Fragbox-Host/images/blob/main/games/wine-staging/Dockerfile)
+- [`games-proton`](https://github.com/Fragbox-Host/images/blob/main/games/proton/Dockerfile)
+- [`games-valheim`](https://github.com/Fragbox-Host/images/blob/main/games/valheim/Dockerfile)
+- [`games-beammp`](https://github.com/Fragbox-Host/images/blob/main/games/beammp/Dockerfile)
+- [`games-cs2`](https://github.com/Fragbox-Host/images/blob/main/games/cs2/Dockerfile)
+- [`games-core-keeper`](https://github.com/Fragbox-Host/images/blob/main/games/core-keeper/Dockerfile)
+- [`games-tuxlauncher`](https://github.com/Fragbox-Host/images/blob/main/games/tuxlauncher/Dockerfile)
+- [`games-steam`](https://github.com/Fragbox-Host/images/blob/main/games/steam/Dockerfile)
 
 ### Bot Hosting images
 
-- [`bot-bastion`](https://github.com/sparkedhost/images/blob/main/bot/bastion/Dockerfile)
-- [`bot-lavalink`](https://github.com/sparkedhost/images/blob/main/bot/lavalink/Dockerfile)
-- [`bot-modmail`](https://github.com/sparkedhost/images/blob/main/bot/modmail/Dockerfile)
-- [`bot-redbot`](https://github.com/sparkedhost/images/blob/main/bot/redbot/Dockerfile)
+- [`bot-bastion`](https://github.com/Fragbox-Host/images/blob/main/bot/bastion/Dockerfile)
+- [`bot-lavalink`](https://github.com/Fragbox-Host/images/blob/main/bot/lavalink/Dockerfile)
+- [`bot-modmail`](https://github.com/Fragbox-Host/images/blob/main/bot/modmail/Dockerfile)
+- [`bot-redbot`](https://github.com/Fragbox-Host/images/blob/main/bot/redbot/Dockerfile)
 
 ### PHP images
 
-- [`php-8.3`](https://github.com/sparkedhost/images/blob/main/php/php-8.3/Dockerfile)
+- [`php-8.3`](https://github.com/Fragbox-Host/images/blob/main/php/php-8.3/Dockerfile)
 
 ### .NET images
 
-- [`dotnet-3.1`](https://github.com/sparkedhost/images/blob/main/dotnet/dotnet-3.1/Dockerfile)[^eol]
-- [`dotnet-7`](https://github.com/sparkedhost/images/blob/main/dotnet/dotnet-7/Dockerfile)[^eol]
-- [`dotnet-8`](https://github.com/sparkedhost/images/blob/main/dotnet/dotnet-8/Dockerfile)
-- [`dotnet-9`](https://github.com/sparkedhost/images/blob/main/dotnet/dotnet-9/Dockerfile)
+- [`dotnet-3.1`](https://github.com/Fragbox-Host/images/blob/main/dotnet/dotnet-3.1/Dockerfile)[^eol]
+- [`dotnet-7`](https://github.com/Fragbox-Host/images/blob/main/dotnet/dotnet-7/Dockerfile)[^eol]
+- [`dotnet-8`](https://github.com/Fragbox-Host/images/blob/main/dotnet/dotnet-8/Dockerfile)
+- [`dotnet-9`](https://github.com/Fragbox-Host/images/blob/main/dotnet/dotnet-9/Dockerfile)
 
 ### Generic images
 
-- [`generic-debian`](https://github.com/sparkedhost/images/blob/main/generic/debian/Dockerfile)
-- [`generic-mono`](https://github.com/sparkedhost/images/blob/main/generic/mono/Dockerfile)
-- [`generic-wine`](https://github.com/sparkedhost/images/blob/main/generic/wine/Dockerfile)
+- [`generic-debian`](https://github.com/Fragbox-Host/images/blob/main/generic/debian/Dockerfile)
+- [`generic-mono`](https://github.com/Fragbox-Host/images/blob/main/generic/mono/Dockerfile)
+- [`generic-wine`](https://github.com/Fragbox-Host/images/blob/main/generic/wine/Dockerfile)
 
 ### Other images
 
-- [`azul-prime-17`](https://github.com/sparkedhost/images/blob/main/other/azul-prime-17/Dockerfile)
-- [`azul-prime-19`](https://github.com/sparkedhost/images/blob/main/other/azul-prime-19/Dockerfile)[^eol]
-- [`golang-121`](https://github.com/sparkedhost/images/blob/main/golang/golang-121/Dockerfile)
+- [`azul-prime-17`](https://github.com/Fragbox-Host/images/blob/main/other/azul-prime-17/Dockerfile)
+- [`azul-prime-19`](https://github.com/Fragbox-Host/images/blob/main/other/azul-prime-19/Dockerfile)[^eol]
+- [`golang-121`](https://github.com/Fragbox-Host/images/blob/main/golang/golang-121/Dockerfile)
 
 ## Requesting changes
 

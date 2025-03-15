@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Image
-# Image: ghcr.io/sparkedhost/images:python-3.9
+# Image: ghcr.io/fragbox-host/images:python-3.9
 # ----------------------------------
 
 FROM        python:3.9-slim-bullseye

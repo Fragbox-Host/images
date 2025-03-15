@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Image
-# Image: ghcr.io/sparkedhost/images:nodejs-15
+# Image: ghcr.io/fragbox-host/images:nodejs-15
 # ----------------------------------
 
 FROM        node:15-slim

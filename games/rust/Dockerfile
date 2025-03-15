@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:games-rust
+# Image: ghcr.io/fragbox-host/images:games-rust
 # ----------------------------------
 
 FROM ubuntu:20.04

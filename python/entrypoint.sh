@@ -19,7 +19,7 @@ export PIP_DISABLE_PIP_VERSION_CHECK=1
 
 # Replace Startup Variables.
 MODIFIED_STARTUP=$(echo -e ${STARTUP} | sed -e 's/{{/${/g' -e 's/}}/}/g')
-echo "customer@apollopanel:~# ${MODIFIED_STARTUP}"
+echo "customer@fragbox:~# ${MODIFIED_STARTUP}"
 
 # Run the Server.
 eval ${MODIFIED_STARTUP}

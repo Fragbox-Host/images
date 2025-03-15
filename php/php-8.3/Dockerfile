@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Image
-# Image: ghcr.io/sparkedhost/images:php-8.3
+# Image: ghcr.io/fragbox-host/images:php-8.3
 # ----------------------------------
 
 FROM php:8.3-alpine

@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:bot-redbot
+# Image: ghcr.io/fragbox-host/images:bot-redbot
 # ----------------------------------
 
 FROM          python:3.11-slim

@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Image
-# Image: ghcr.io/sparkedhost/images:games-beammp
+# Image: ghcr.io/fragbox-host/images:games-beammp
 # ----------------------------------
 
 FROM debian:bookworm-slim

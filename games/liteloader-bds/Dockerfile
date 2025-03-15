@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:games-liteloader-bds
+# Image: ghcr.io/fragbox-host/images:games-liteloader-bds
 # ----------------------------------
 
 FROM    debian:bullseye-slim

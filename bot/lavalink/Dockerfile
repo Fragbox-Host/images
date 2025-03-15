@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:bot-lavalink
+# Image: ghcr.io/fragbox-host/images:bot-lavalink
 # ----------------------------------
 
 FROM        openjdk:17-slim

@@ -36,4 +36,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/sparkedhost/images:redis-${{ matrix.version }}
+            ghcr.io/fragbox-host/images:redis-${{ matrix.version }}

@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:games-bdsx
+# Image: ghcr.io/fragbox-host/images:games-bdsx
 # ----------------------------------
 
 FROM    alpine:latest

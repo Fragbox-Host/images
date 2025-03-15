@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Image
-# Image: ghcr.io/sparkedhost/images:nodejs-13
+# Image: ghcr.io/fragbox-host/images:nodejs-13
 # ----------------------------------
 
 FROM        node:13-buster-slim

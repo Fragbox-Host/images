@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:redis-6
+# Image: ghcr.io/fragbox-host/images:redis-6
 # ----------------------------------
 
 FROM redis:6-bookworm

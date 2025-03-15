@@ -33,7 +33,7 @@ export INTERNAL_IP=`ip route get 1 | awk '{print $(NF-2);exit}'`
 
 # Evaluate startup variables.
 MODIFIED_STARTUP=$(eval "echo \"$(echo ${STARTUP} | sed -e 's/{{/${{/g' -e 's/}}/}}/g')\"")
-echo "customer@apollopanel:~# ${MODIFIED_STARTUP}"
+echo "customer@fragbox:~# ${MODIFIED_STARTUP}"
 
 eval "${MODIFIED_STARTUP}"
 """
@@ -114,7 +114,7 @@ def create_workflow_data(image_name, use_matrix, matrix_values, base_folder, use
                                 "file": f"./{base_folder_rel}/{image_name_base}-${{ matrix.version }}/Dockerfile",
                                 "platforms": "linux/amd64",
                                 "push": True,
-                                "tags": f"ghcr.io/sparkedhost/images:{image_name_base}-${{ matrix.version }}"
+                                "tags": f"ghcr.io/fragbox-host/images:{image_name_base}-${{ matrix.version }}"
                             }
                         }
                     ]
@@ -164,7 +164,7 @@ def create_workflow_data(image_name, use_matrix, matrix_values, base_folder, use
                                 "file": f"./{base_folder_rel}/Dockerfile",
                                 "platforms": "linux/amd64",
                                 "push": True,
-                                "tags": f"ghcr.io/sparkedhost/images:{image_name}"
+                                "tags": f"ghcr.io/fragbox-host/images:{image_name}"
                             }
                         }
                     ]

@@ -8,6 +8,6 @@ php --version
 
 # Evaluate startup variables.
 MODIFIED_STARTUP=$(eval "echo \"$(echo ${STARTUP} | sed -e 's/{{/${/g' -e 's/}}/}/g')\"")
-echo "customer@apollopanel:~# ${MODIFIED_STARTUP}"
+echo "customer@fragbox:~# ${MODIFIED_STARTUP}"
 
 eval "${MODIFIED_STARTUP}"

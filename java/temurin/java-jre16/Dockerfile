@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:java-jre16
+# Image: ghcr.io/fragbox-host/images:java-jre16
 # ----------------------------------
 
 FROM        debian:bookworm-slim

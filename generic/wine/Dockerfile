@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:generic-wine
+# Image: ghcr.io/fragbox-host/images:generic-wine
 # ----------------------------------
 
 FROM alpine:latest

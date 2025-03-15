@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:bot-modmail
+# Image: ghcr.io/fragbox-host/images:bot-modmail
 # ----------------------------------
 
 FROM        python:3.9-slim-bullseye

@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:azul-prime-19
+# Image: ghcr.io/fragbox-host/images:azul-prime-19
 # ----------------------------------
 
 FROM        azul/prime:19

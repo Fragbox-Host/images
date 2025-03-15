@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Image
-# Image: ghcr.io/sparkedhost/images:network-debian
+# Image: ghcr.io/fragbox-host/images:network-debian
 # ----------------------------------
 
 FROM debian:bullseye-slim

@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:bot-bastion
+# Image: ghcr.io/fragbox-host/images:bot-bastion
 # ----------------------------------
 
 FROM        node:18-bullseye

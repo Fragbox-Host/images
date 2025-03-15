@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Image
-# Image: ghcr.io/sparkedhost/images:nodejs-14
+# Image: ghcr.io/fragbox-host/images:nodejs-14
 # ----------------------------------
 
 FROM        node:14-bullseye-slim

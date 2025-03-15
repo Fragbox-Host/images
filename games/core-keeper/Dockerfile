@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:games-core-keeper
+# Image: ghcr.io/fragbox-host/images:games-core-keeper
 # ----------------------------------
 
 

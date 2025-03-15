@@ -12,7 +12,7 @@ export INTERNAL_IP=`ip route get 1 | awk '{print $(NF-2);exit}'`
 MODIFIED_STARTUP=$(echo "${STARTUP}" | sed -e 's/{{/${/g' -e 's/}}/}/g' | eval echo "$(cat -)")
 
 # Print startup command to console
-echo -e "\033[1;33mcustomer@apollopanel:~\$\033[0m ${MODIFIED_STARTUP}"
+echo -e "\033[1;33mcustomer@fragbox:~\$\033[0m ${MODIFIED_STARTUP}"
 
 # Run the server.
 eval ${MODIFIED_STARTUP}

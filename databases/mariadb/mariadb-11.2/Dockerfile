@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:mariadb-11.1
+# Image: ghcr.io/fragbox-host/images:mariadb-11.1
 # ----------------------------------
 
 FROM mariadb:11.1

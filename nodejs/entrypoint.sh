@@ -33,12 +33,12 @@ echo "Discord.js version: ${DJS_VER}"
 # Make internal Docker IP address available to processes.
 export INTERNAL_IP=`ip route get 1 | awk '{print $(NF-2);exit}'`
 
-# Disable NPM update notifications (https://github.com/sparkedhost/images/issues/28), but don't overwrite the file if it exists
+# Disable NPM update notifications (https://github.com/Fragbox-Host/images/issues/28), but don't overwrite the file if it exists
 [ ! -f ".npmrc" ] && echo "update-notifier=false" > ~/.npmrc
 
 # Replace Startup Variables
 MODIFIED_STARTUP=$(echo -e ${STARTUP} | sed -e 's/{{/${/g' -e 's/}}/}/g')
-echo "customer@apollopanel:~# ${MODIFIED_STARTUP}"
+echo "customer@fragbox:~# ${MODIFIED_STARTUP}"
 
 # Run the Server.
 eval ${MODIFIED_STARTUP}

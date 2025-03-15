@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:mongodb-8
+# Image: ghcr.io/fragbox-host/images:mongodb-8
 # ----------------------------------
 
 FROM mongo:8.0.4

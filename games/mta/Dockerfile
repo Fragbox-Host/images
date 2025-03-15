@@ -1,6 +1,6 @@
 # ----------------------------------
 # Sparked Host Custom Docker Image
-# Image: ghcr.io/sparkedhost/images:games-mta
+# Image: ghcr.io/fragbox-host/images:games-mta
 # ----------------------------------
 
 FROM debian:bullseye-slim
